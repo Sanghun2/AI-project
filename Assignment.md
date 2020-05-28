@@ -2,4 +2,4 @@
 
 ## 1주차 과제 (2020.05.21)
 
-###  [인공지능 사례 분석](https://github.com/Sanghun2/AI-project/blob/master/Untitled1.ipynb)
+###  *[인공지능 사례 분석](https://github.com/Sanghun2/AI-project/blob/master/Untitled1.ipynb)
